@@ -1,0 +1,1 @@
+print("My name is Luka.My surname is Khurtsidze. l am 13 years old.l am from Georgia.My favourite hobby is judo.my Favourite color is black")

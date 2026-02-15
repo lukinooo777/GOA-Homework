@@ -1,0 +1,12 @@
+table{
+    text-align: center;
+}
+
+td,tr{
+    padding: 10px;
+    border: 1px solid pink;
+}
+
+tr:nth-child(1){
+    background-color: palevioletred;
+}

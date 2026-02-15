@@ -1,0 +1,8 @@
+h1{color: red;}
+h4{color: brown;
+   font-family: cursive;
+   text-transform: uppercase;
+}
+h1, h3{color: chartreuse;
+   letter-spacing: 5px;
+}

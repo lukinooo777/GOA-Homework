@@ -1,0 +1,33 @@
+div{
+    height: 400px;
+    width: 350px;
+    background-color: rgb(89, 0, 255);
+    border-radius: 30px;
+}
+
+
+.div-2{
+    height: 190px;
+    width: 190px;
+    background-color: rgb(55, 0, 255);
+    border-radius: 50%;
+    position: relative;
+    bottom: 360px;
+    left: 75px;
+
+}
+
+h1{
+    color: white;
+    font-size: 4em;
+    position: relative;
+    bottom: 550px;
+    left: 140px;
+}
+
+h5{
+    color: white;
+    position: relative;
+    bottom: 575px;
+    left: 150px;
+}

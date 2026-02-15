@@ -1,0 +1,65 @@
+h1{
+    color: blue;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+div{
+    width: 300px;
+    height: 200px;
+    border: 3px solid black;
+    text-align: center;
+    letter-spacing: 10px;
+    background-image: url(..//th\ \(8\).jpg);
+    background-size: contain;
+}
+
+.div-2{
+    width: 300px;
+    height: 200px;
+    border: 3px solid black;
+    text-align: center;
+    letter-spacing: 10px;
+    background-image: url(..//th\ \(9\).jpg);
+    background-size: contain;
+    
+}
+
+
+.div-3{
+    width: 300px;
+    height: 200px;
+    border: 3px solid black;
+    text-align: center;
+    letter-spacing: 10px;
+    background-image: url(..//th\ \(10\).jpg);
+    background-size: contain;
+}
+
+.div-4{
+    width: 300px;
+    height: 200px;
+    border: 3px solid black;
+    text-align: center;
+    letter-spacing: 10px;
+    background-image: url(..//th\ \(11\).jpg);
+}
+
+.div-5{
+    width: 300px;
+    height: 200px;
+    border: 3px solid black;
+    text-align: center;
+    letter-spacing: 10px;
+    background-image: url(..//Download-Free-Argentina-Flag-Wallpaper.jpg) ;
+}
+
+.div-6{
+     width: 300px;
+     height: 200px;
+     border: 3px solid black;
+     text-align: center;
+     letter-spacing: 10px;
+     background-image: url(..//th\ \(12\).jpg);
+
+}

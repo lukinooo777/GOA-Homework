@@ -1,0 +1,32 @@
+:root{
+--pcolor: green;
+--psize: 1.3em;
+--pfontfamily: monospace;
+
+
+--btncolor: red;
+--btnsize:3em;
+--btnfontfamily: monospace;
+}
+
+
+h1{
+    color: blue;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+p{
+   color: var(--pcolor);
+   font-size: var(--psize);
+   font-family: var(--pfontfamily);
+
+}
+
+
+
+button{
+    color: var(--btncolor);
+    font-size: var(--btnsize);
+    font-family: var(--btnfontfamily);
+}

@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+  letter-spacing: 10px;
+  color: rgb(0, 162, 255);
+}
+h3{
+color: rgb(0, 149, 255);
+letter-spacing: 8px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+color: rgb(160, 107, 95);
+letter-spacing: 7px;
+font-family: cursive;
+font-size: 3em;
+}

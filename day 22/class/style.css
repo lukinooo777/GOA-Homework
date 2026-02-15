@@ -1,0 +1,11 @@
+.parent{
+width: 550px;
+height: 400px;
+background-color: azure;
+}
+
+.child{
+width: 220px;
+height: 220px;
+background-color: antiquewhite;
+}

@@ -1,0 +1,22 @@
+.button{
+    color: bisque;
+    text-decoration: double;
+    text-align: left;
+    text-shadow: 20px;
+    font-family: cursive;
+}
+
+.button{
+    color: aquamarine;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: dotted;
+    text-shadow: 40px;
+}
+
+.p{
+    color: rgb(48, 15, 35);
+text-align: center;
+text-shadow: 40px;
+font-family: cursive;
+}

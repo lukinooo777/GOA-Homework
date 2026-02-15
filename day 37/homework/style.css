@@ -1,0 +1,36 @@
+header{
+    position: fixed;
+    letter-spacing: 5px;
+    text-align: center;
+    top: 200px;
+    right: 100px;
+}
+
+
+div{
+    width: 200px;
+    height: 200px;
+    border: 3 px solid red;
+    position: static;
+   
+    color: aliceblue;
+
+}
+
+.div-two{
+    width: 300px;
+    height: 200px;
+    border: 3px solid black;
+    position: relative;
+    top: 200px;
+    left: 100px;
+
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    border: 2px solid red;
+    position: sticky;
+    top: 0px;
+}

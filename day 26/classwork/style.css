@@ -1,0 +1,25 @@
+.heading1{
+    color: aquamarine;
+    font-family: cursive;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 23px;
+
+}
+.heading2{
+color: blueviolet;
+font-family: cursive;
+text-transform: lowercase;
+text-decoration: underline;
+text-align: left;
+text-shadow: 20px;
+}
+
+.heading{
+    color: bisque;
+    text-align: right;
+    text-decoration: line-through;
+    text-shadow: 30px;
+    text-transform: initial;
+    font-family: cursive;
+}

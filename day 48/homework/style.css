@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr 3fr 3fr 1fr;
+    grid-template-rows: 1fr 3fr 3fr;
+    gap: 10px;
+    background-color: black;
+    padding: 10px;
+}
+.header {
+    grid-column: 2 / span 2;
+    background-color: green;
+}
+.sidebar {
+    grid-row: 1 / span 3;
+    background-color: green;
+}
+.navigation {
+    grid-row: 1 / span 3;
+    background-color: green;
+}
+.sect1 {
+    background-color: red;
+}
+.sect2 {
+    background-color: orange;
+}
+.sect3, .sect4 {
+    background-color: red;
+}
+.sect5 {
+    background-color: orange;
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}

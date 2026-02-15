@@ -1,0 +1,46 @@
+.parent{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(95, 116, 160);
+    border-radius: 30px;
+    border: 2px solid black;
+
+}
+
+.child{
+    width: 300px;
+    height: 300px;
+    background-image: url(..//Screenshot\ 2025-02-28\ 183935.png);
+    background-size: contain;
+    text-align: justify;
+    color: white;
+    position: relative;
+    left: 75px;
+    top: 30px;
+    border-radius: 30px;
+    border: 1px solid black;
+
+}
+
+h2{
+    
+    color: white;
+    position: relative;
+    left: 50px;
+    bottom: 175px;
+}
+
+h5{
+    color: white;
+    position: relative;
+    font-size: 1em;
+    left: 40px;
+    bottom: 170px;
+}
+
+h5{
+    color: white;
+    position: relative;
+    left: 30px;
+    bottom: 160px;
+}

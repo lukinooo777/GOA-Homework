@@ -1,0 +1,10 @@
+txt =[10,20,34,56,35,87,456,34,34,37]
+print(0)
+print(1)
+print(2)
+txt.append(4)
+txt.append(3)
+txt.append(253)
+txt.append(78)
+txt.append(46)
+print(txt)

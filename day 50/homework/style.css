@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(green);
+}
+
+
+div{
+    width: 340px;
+    height: 340px;
+    background-color: white;
+    
+}
+
+
+.bt-1{
+    width: 240px;
+    height: 35px;
+    position: relative;
+    top: 120px;
+    left: 40px;
+}
+
+.bt-2{
+    width: 240px;
+    height: 35px;
+    position: relative;
+    top: 140px;
+    left: 40px;
+}
+
+.bt-3{
+    width: 240px;
+    height: 45px;
+    position: relative;
+    top: 160px;
+    left: 40px;
+    background-color: greenyellow;
+}

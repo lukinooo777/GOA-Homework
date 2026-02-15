@@ -1,0 +1,16 @@
+.parent{
+    width: 600px;
+    height: 500px;
+    background-color: blue;
+    border-radius: 20%;
+}
+
+.child{
+width: 300px;
+height: 200px;
+background-color: blanchedalmond;
+border-radius: 50%;
+padding-top: 200px;
+padding-left: 300px;
+padding-left: 50px;
+}
